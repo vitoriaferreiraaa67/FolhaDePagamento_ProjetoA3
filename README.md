@@ -12,8 +12,8 @@ Cadastrar funcionários de 3 tipos:
 
 ✔️Produção
 
--Gerar a folha de pagamento
+* Gerar a folha de pagamento
 
--Evitar matrícula duplicada
+* Evitar matrícula duplicada
 
 É um sistema de folha de pagamento que utiliza ArrayList para armazenar dados de funcionários, com validação de matrícula única, cálculo de salário baseado em diferentes categorias e uso de estruturas de controle como switch e do-while
